@@ -72,7 +72,8 @@ all the strores are included in the trainning and validation sets. For the final
 2. Store Id - The store for which we need the predictions <br>
 3. Promo - If the store will be running a promo on that dat<br>
 4. State Holiday - If the day is actually a state holiday or not <br>
-The rest of the features used are features realting to the store id, a database in the form of a csv contains all the information regarding every store under Rossmann. <br>
-The webapp also generated interpretation plots, as shown above.<br>
-Finally, the app has been deployed using AWS EC@ Instance and can be accessed [here](http://ec2-54-89-210-244.compute-1.amazonaws.com:8501/)
+
+- The rest of the features used are features realting to the store id, a database in the form of a csv contains all the information regarding every store under Rossmann. <br>
+- The webapp also generated interpretation plots, as shown above.<br>
+- Finally, the app has been deployed using AWS EC2 Instance and can be accessed [here](http://ec2-54-89-210-244.compute-1.amazonaws.com:8501/)
 
