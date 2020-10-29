@@ -4,7 +4,7 @@
 - Created features referring the active promos run by the store, competitor distance, competitor time of opening, demarking the start of year/quarter etc.
 - Tried 3 main modelling approaches, Random Forest, XGBoost & Neural Networks with Entity Embeddings. Selected XGBoost as the final model.
 - Created a webapp using Streamlit and deployed on AWS EC2 Instance.<br>
-Check out the webapp [here](http://ec2-54-89-210-244.compute-1.amazonaws.com:8501/)
+Check out the webapp [here](http://ec2-18-205-149-156.compute-1.amazonaws.com:8501/)
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
@@ -75,5 +75,5 @@ all the strores are included in the trainning and validation sets. For the final
 
 - The rest of the features used are features realting to the store id, a database in the form of a csv contains all the information regarding every store under Rossmann. <br>
 - The webapp also generated interpretation plots, as shown above.<br>
-- Finally, the app has been deployed using AWS EC2 Instance and can be accessed [here](http://ec2-54-89-210-244.compute-1.amazonaws.com:8501/)
+- Finally, the app has been deployed using AWS EC2 Instance and can be accessed [here](http://ec2-18-205-149-156.compute-1.amazonaws.com:8501/)
 
