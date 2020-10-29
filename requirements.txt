@@ -108,7 +108,7 @@ thinc==7.4.1
 threadpoolctl==2.1.0
 toml==0.10.1
 toolz==0.11.1
-torch==1.7.0+cpu
+torch==1.6.0
 torchaudio==0.7.0
 torchvision==0.8.1+cpu
 tornado==6.0.4
