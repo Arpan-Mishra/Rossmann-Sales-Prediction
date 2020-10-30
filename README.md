@@ -75,5 +75,6 @@ all the strores are included in the trainning and validation sets. For the final
 
 - The rest of the features used are related to the store id, a database in the form of a csv contains all the information regarding every Rossmann store. <br>
 - The webapp also generates interpretation plots (GAIN + SHAP Force Plot), as shown above.<br>
-- Finally, the app has been deployed using AWS EC2 Instance with an elastic IP. Check it out: (https://cutt.ly/rossmann-app)
+- Finally, the app has been deployed using AWS EC2 Instance with an elastic IP. <br>
+Check it out: https://cutt.ly/rossmann-app
 
