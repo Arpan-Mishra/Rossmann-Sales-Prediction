@@ -73,7 +73,7 @@ all the strores are included in the trainning and validation sets. For the final
 3. Promo - If the store will be running a promo on that dat<br>
 4. State Holiday - If the day is actually a state holiday or not <br>
 
-- The rest of the features used are features realting to the store id, a database in the form of a csv contains all the information regarding every store under Rossmann. <br>
-- The webapp also generated interpretation plots, as shown above.<br>
-- Finally, the app has been deployed using AWS EC2 Instance and can be accessed [here](https://cutt.ly/rossmann-app)
+- The rest of the features used are related to the store id, a database in the form of a csv contains all the information regarding every Rossmann store. <br>
+- The webapp also generates interpretation plots (GAIN + SHAP Force Plot), as shown above.<br>
+- Finally, the app has been deployed using AWS EC2 Instance with an elastic IP. Check it out: (https://cutt.ly/rossmann-app)
 
