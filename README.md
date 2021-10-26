@@ -4,7 +4,7 @@
 - Created features referring the active promos run by the store, competitor distance, competitor time of opening, demarking the start of year/quarter etc.
 - Tried 3 main modelling approaches, Random Forest, XGBoost & Neural Networks with Entity Embeddings. Selected XGBoost as the final model.
 - Created a webapp using Streamlit and deployed on AWS EC2 Instance.<br>
-Check out the webapp [here](https://cutt.ly/rossmann-app)
+Check out the webapp [here](https://cutt.ly/rossmann-app) (Currently Inactive) 
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
